@@ -141,7 +141,7 @@ Open `main.ipynb` and run all cells to perform:
 ## 🧪 Outputs Folder
 
 - All generated color predictions are saved in:  
-  `dj/outputimages/`
+  `dj`
 
 ---
 
